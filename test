@@ -7,8 +7,8 @@
 // O valor padrão costuma ser 150x100. Aqui, definimos como 500x300.
 // Sinta-se à vontade para aumentar ainda mais esses números!
 
-width = 500;  // Largura do mapa em pixels
-height = 300; // Altura do mapa em pixels
+width = 1500;  // Largura do mapa em pixels
+height = 900; // Altura do mapa em pixels
 
 // ==========================================
 // 2. Ajuste de escala de renderização (Opcional)
